@@ -7,7 +7,7 @@ import streamlit as st
 
 # Judul streamlit
 st.title("Data Analysis Dashboard")
-st.text('by Danish Gyan Pramana')``
+st.text('by Danish Gyan Pramana')
 st.header('Bike Sharing Visualization')
 
 # Menambahkan logo 
