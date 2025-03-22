@@ -11,7 +11,7 @@ st.text('by Danish Gyan Pramana')
 st.header('Bike Sharing Visualization')
 
 # Menambahkan logo 
-st.image("E:\MAGANGGG\project analisa data DBS\mountain bike.png", width=250)
+#st.image("E:\MAGANGGG\project analisa data DBS\mountain bike.png", width=250)
 
 st.text('Pada dashboard ini, anda bisa melihat project analisa data Bike sharing yang sudah saya lakukan. Pada Project ini, saya menggunakan dua dataset, yaitu day.csv dan hour.csv. Kedua dataset ini telah saya olah sedemikian rupa sehingga menjadi lebih mudah unutk dilakukan analisa dan visualisasi.')
 st.text('Berikut adalah beberapa pertanyaan analisa bisnis saya.\n 1. Bagaimana pola penggunaan pengguna kasual jika dibandingkan dengan pengguna terdaftar?\n 2. Bagaimana distribusi jumlah sepeda yang digunakan dari pagi hingga malam?\n 3. kapan terakhir kali sepeda disewa dalam jumlah besar?\n')
