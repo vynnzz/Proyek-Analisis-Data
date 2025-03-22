@@ -29,7 +29,7 @@ with st.sidebar:
     )
 
 # Membaca dataset day.csv
-df = pd.read_csv(r"E:\MAGANGGG\project analisa data DBS\day_dfclean.csv")
+df = pd.read_csv("day_dfclean.csv")
 
 # Menampilkan dataset dan visualisasi jika memilih 'Day'
 if Select_Data == "Day":
@@ -142,7 +142,7 @@ if Select_Data == "Day":
 #===================================================================================#
 
 # Membaca dataset hour.csv
-df = pd.read_csv(r"E:\MAGANGGG\project analisa data DBS\hour_dfclean.csv")
+df = pd.read_csv("hour_dfclean.csv")
 
 # Menampilkan dataset dan visualisasi jika memilih 'Hour'
 if Select_Data == "Hour":
