@@ -20,4 +20,4 @@ pip install -r requirements.txt
 
 ## Setup Environment - Terminal
 ```
-streamlit run App.py
+streamlit run Dashboard_bike_danish.py
